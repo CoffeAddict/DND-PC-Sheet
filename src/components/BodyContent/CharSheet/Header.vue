@@ -1,16 +1,13 @@
 <template>
-  <div class="d-flex container">
-    <CharSheetMain/>
+  <div>
+    header xd
   </div>
 </template>
 
 <script>
-
-import CharSheetMain from '@/components/BodyContent/CharSheet/CharSheetMain.vue'
 export default {
-  name: 'BodyContent',
+  name: 'Header',
   components: {
-    CharSheetMain
   },
   data () {
     return {
